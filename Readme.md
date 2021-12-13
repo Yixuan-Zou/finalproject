@@ -1,6 +1,6 @@
 ### <center>*Final Project Proposal*</center>
 ##### <center>***Yixuan Zou, yz3909***</center>
-[![Binder](https://mybinder.org/badge.svg)](https://hub-binder.mybinder.ovh/user/pangeo-data-pangeo-docker-images-3ylx2zbe/git-pull?repo=https%3A%2F%2Fgithub.com%2FYixuan-Zou%2Ffinalproject&urlpath=tree%2Ffinalproject%2Ffinalproject.ipynb&branch=master)
+[![Binder](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FYixuan-Zou%252Ffinalproject%26urlpath%3Dtree%252Ffinalproject%252F%26branch%3Dmaster)
 ##### Hypothesis: 
 By combining the wind resource in multiple locations will generate more stable power.
 
