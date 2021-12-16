@@ -7,11 +7,22 @@ By combining the wind resource in multiple locations will generate more stable p
 
 This project aims to analysis the effect of combining the diversity of wind time series across different wind resource regions and to answer the question whether more stable power can be produced when we connect regions. Analysis will be done using one year hourly capacity factor data of eight sites (shown in the Fig1), which indicates the wind potential. New York State hourly solar potential data and hourly electricity load data in 2011 will be used to analyse the possibility of fulfilling electricity load with renewable energy (wind and solar).
 
+<strong><em> Data are provided by Quadracci Sustainable Engineering Lab in Columbia University.</strong></em>
+
 ##### Dataset: [wind_po_hr.csv ](https://zenodo.org/record/5739406#.YabNWNCZPZs)
+<em>Data is selected from the integrated model data developed by NREL for 126000 potential wind sites.</em>
+<p>Provenance 1: Draxl C, Clifton A, Hodge BM, McCaa J. The Wind Integration National Dataset (WIND) Toolkit. Appl Energy 2015;151:355–66. https://doi.org/10.1016/j.apenergy.2015.03.121.</p>
+<p>Provenance 2: Draxl C, Hodge B-M, Clifton A, McCaa J. Overview and Meteorological Validation of the Wind Integration National Dataset Toolkit. 2015</p>
 
 ##### Dataset: [solar_potential ](https://zenodo.org/record/5750726#.YalDatCZPZs)
+<em>Data is grid-scale solar PV sites in NREL model solar dataset, aggregated by region in NYS.</em>
+<p>Provenance 1: Hummon M, Ibanez E, Brinkman G, Lew D. Sub-Hour Solar Data for Power System Modeling From Static Spatial Variability Analysis. 2nd Int. Work. Integr. Sol. Power Power Syst., 2012</p>
+<p>Provenance 2: Blair N, Dobos AP, Freeman J, Neises T, Wagner M, Ferguson T, et al. System Advisor Model, 2014.1.14: General Description. NREL Rep No TP-6A20-61019, Natl Renew Energy Lab Golden, CO 2014</p>
 
 ##### Dataset: [electricity_load](https://zenodo.org/record/5750734#.YalDsdCZPZs)
+<em>Data is from NYISO and is aggregated into single time series for NYS in 2011.</em>
+<p>Provenance: New York Independent System Operator (NYISO). Market and Operational Data 2020. https://www.nyiso.com/energy-market-operational-data. </p>
+
 ![wind_image](windresource.jpg)
 
 <ol>
