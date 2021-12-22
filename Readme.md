@@ -5,9 +5,9 @@
 ##### Hypothesis: 
 By combining the wind resource in multiple locations will generate more stable power.
 
-This project aims to analysis the effect of combining the diversity of wind time series across different wind resource regions and to answer the question whether more stable power can be produced when we connect regions. Analysis will be done using one year hourly capacity factor data of eight sites (shown in the Fig1), which indicates the wind potential. New York State hourly solar potential data and hourly electricity load data in 2011 will be used to analyse the possibility of fulfilling electricity load with renewable energy (wind and solar).
-
+This project aims to analyze the effect of combining different regions of wind resource and to answer the question whether more stable power can be produced when we connect regions. Analysis will be done using one year hourly wind capacity factor data of eight sites (shown in the Fig1), which indicates the wind potential. Hourly solar potential data electricity load data in New York State, 2011 will be used to analyse the possibility of fulfilling electricity load with renewable energy (wind and solar).
 <strong><em> Data are provided by Quadracci Sustainable Engineering Lab in Columbia University.</strong></em>
+
 
 ##### Dataset: [wind_po_hr.csv ](https://zenodo.org/record/5739406#.YabNWNCZPZs)
 <em>Data is selected from the integrated model data developed by NREL for 126000 potential wind sites.</em>
